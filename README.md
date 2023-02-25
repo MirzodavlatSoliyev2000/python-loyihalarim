@@ -1,2 +1,2 @@
 # python-loyihalarim
-pythonda bir nechta hoyihalar jamlangan
+pythonda bir nechta hoyihalar jamlangan fayil
